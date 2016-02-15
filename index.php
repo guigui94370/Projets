@@ -6,7 +6,7 @@
 </head>
 <body>
 	<header><h1>Titre 1</h1></header>
-	<div class="container">Contenu</div>
+	<div class="container">Contenu test</div>
 	<footer>Mon footer</footer>
 </body>
 </html>
